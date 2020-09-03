@@ -1,10 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fc63bf30-b68f-4010-a9fd-315f5d5a74fc">
-  <name>DocCreditNoteServer</name>
-  <synonym>
-    <key>en</key>
-    <value>Doc credit note server</value>
-  </synonym>
-  <server>true</server>
-  <serverCall>true</serverCall>
+	<name>DocCreditNoteServer</name>
+	<synonym>
+		<key>en</key>
+		<value>Doc credit note server</value>
+	</synonym>
+	<server>true</server>
+	<serverCall>true</serverCall>
+	<synonym>
+		<key>ru</key>
+		<value>Документ кредит-нота сервер</value>
+	</synonym>
+	<synonym>
+		<key>de</key>
+		<value>Dok Gutschrift Server</value>
+	</synonym>
+	<synonym>
+		<key>fr</key>
+		<value>Doc avoir serveur</value>
+	</synonym>
 </mdclass:CommonModule>
